@@ -6,7 +6,7 @@ const index = () => {
     return (
         <div className="footer">
             <span style={{ color: "darkblue", display: 'flex', justifyContent: "center" }} >
-                © Copyright 2022 ® Design by: Ariel Paixão.
+                © Copyright 2023 ® Raul Coder.
             </span>
         </div >
     )
